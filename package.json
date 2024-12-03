@@ -1,0 +1,9 @@
+{
+    "name": "aoc",
+    "private": "true",
+    "type": "module",
+    "devDependencies": {
+        "@types/node": "22",
+        "bests": "benjamingwynn/bests"
+    }
+}
